@@ -3,7 +3,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/ancy_wall.jpg');
+		$(".banner-image").backstretch('ancy_wall.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
