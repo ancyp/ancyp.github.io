@@ -147,7 +147,7 @@ blockquote {
 }
 .banner-caption {
 	position: absolute;
-	top: 40%;
+	top: 20%;
 	width: 100%;
 	z-index: 2;
 }
@@ -237,6 +237,13 @@ blockquote {
 }
 .bg-image-2 {
 	background: url("../images/bg-image-2.jpg") 50% 0px no-repeat;
+}
+
+.bg-image-3 {
+	background: url("../images/alan.jpg") 50% 0px no-repeat;
+}
+.bg-image-4 {
+	background: url("../images/gradCohort.jpg") 50% 0px no-repeat;
 }
 
 /* Misc
@@ -576,7 +583,7 @@ textarea {
 	font-size: 36px;
 }
 .social-links li a {
-	color: #333333;
+	color: #ffffff;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;

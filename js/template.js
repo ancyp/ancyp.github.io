@@ -4,6 +4,7 @@
 	$(document).ready(function(){
 	
 		$(".banner-image").backstretch('ancy_wall.jpg');
+		$(".banner-image-2").backstretch('alan.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
